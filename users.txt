@@ -1,0 +1,7 @@
+# username password role
+admin admin123 admin
+agent1 agent123 agent
+rahul pass123 user
+priya pass456 user
+tanmay 1234 user
+Heer heer123 user

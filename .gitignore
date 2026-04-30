@@ -1,0 +1,17 @@
+# Compiled binaries
+server
+client
+*.o
+*.exe
+
+# Log files
+*.log
+
+# Runtime data files (keep templates, ignore generated)
+bookings.txt
+
+# IDE/Editor
+.vscode/
+*.swp
+*.swo
+*~

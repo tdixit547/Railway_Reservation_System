@@ -1,0 +1,8 @@
+# id name from to seats fare
+1 RajdhaniExp Delhi Mumbai 115 1500
+2 ShatabdiExp Delhi Chandigarh 80 750
+3 DurontoExp Mumbai Kolkata 100 1200
+4 VandeExpress Chennai Bangalore 90 500
+5 GaribRath Delhi Lucknow 150 350
+6 GandhiExp Delhi Pune 200 800
+7 Rajdhani Delhi Kanyakumari 95 3425
